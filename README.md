@@ -1,2 +1,2 @@
 # Actividad2
-S4 Actividad2
+Semestre 4 Actividad2
